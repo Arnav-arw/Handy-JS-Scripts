@@ -1,5 +1,5 @@
 // DESCRIPTION:
-// A JavaScript script to check all followers who don't follow you back on Instagram.
+// A JavaScript script to check all following who don't follow you back on Instagram.
 //
 // USAGE:
 // 1. Open the Instagram website on your browser.
